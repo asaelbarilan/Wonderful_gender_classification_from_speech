@@ -133,7 +133,7 @@ dmypy.json
 # Large files and sensitive data
 #
 # Data files
-data/
+/data/
 *.csv
 *.xlsx
 *.xls
@@ -141,7 +141,7 @@ data/
 *.sqlite
 
 # Model files
-models/
+/models/
 *.pkl
 *.joblib
 *.h5
@@ -149,7 +149,7 @@ models/
 *.onnx
 
 # Results and reports
-results/
+/results/
 *.pdf
 *.png
 *.jpg
